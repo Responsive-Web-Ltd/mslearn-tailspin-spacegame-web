@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/azuredevops400/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/akhanna007.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/azuredevops400/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=25&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
